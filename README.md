@@ -1,6 +1,6 @@
-# zoom_clone
+# Online Meeting App
 
-A new Flutter project.
+
 
 ## Overview
 The Online Meeting App is a video conferencing application developed using Flutter, Firebase, and the Jitsi package. This app provides a platform for users to conduct virtual meetings, conferences, and collaborate seamlessly.
