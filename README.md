@@ -2,15 +2,14 @@
 
 A new Flutter project.
 
-## Getting Started
+## Overview
+The Online Meeting App is a video conferencing application developed using Flutter, Firebase, and the Jitsi package. This app provides a platform for users to conduct virtual meetings, conferences, and collaborate seamlessly.
 
-This project is a starting point for a Flutter application.
+## Features
+1. Video Conferencing: Conduct face-to-face meetings with multiple participants in real-time using Jitsi Meet.
+2. Firebase Integration: Secure user authentication and cloud-based data storage for meetings and user profiles.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies Used
+1. Flutter: UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+2. Firebase: Provides user authentication and backend services for storing data securely in the cloud.
+3. Jitsi Package: Integrates Jitsi Meet for video conferencing functionality.
